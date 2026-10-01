@@ -12,7 +12,7 @@ shortbread:
             Shortbread schema is the de-facto general-purpose OSM vector-tile schema
             documented at https://shortbread-tiles.org.
         require:
-            - '@github.com/opencharly/layer-supervisord:v2026.240.0121'
+            - '@github.com/opencharly/layer-supervisord:v2026.271.1817'
         distro:
             arch:
                 package:
